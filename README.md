@@ -1,6 +1,6 @@
 # Codsoft
 
-1.Titanic survival detection.
+ 1.Titanic survival detection.
 
 2. Iris flower classification.
 
